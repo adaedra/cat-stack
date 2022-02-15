@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "name": "@cat-stack/client",
+    "version": "0.1.0",
+    "devDependencies": {
+        "parcel": "^2.3.1",
+        "@parcel/transformer-vue": "2.3.1"
+    },
+    "type": "module",
+    "source": "src/index.html",
+    "dependencies": {
+        "vue": "3"
+    }
+}
