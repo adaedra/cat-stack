@@ -3,8 +3,11 @@
     "name": "@cat-stack/client",
     "version": "0.1.0",
     "devDependencies": {
+        "@parcel/transformer-vue": "2.3.1",
+        "autoprefixer": "^10.4.2",
         "parcel": "^2.3.1",
-        "@parcel/transformer-vue": "2.3.1"
+        "postcss": "^8.4.6",
+        "tailwindcss": "^3.0.22"
     },
     "type": "module",
     "source": "src/index.html",

@@ -16,7 +16,7 @@ export default {
 
 <style module>
 .button {
-  border: 5px solid red;
+  @apply border-red-900 border-4;
 }
 </style>
 

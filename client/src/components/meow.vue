@@ -16,5 +16,5 @@ export default {
 </script>
 
 <template>
-  <button :style="{ fontSize: '10em' }" @click="fetchMeow">😺</button>
+  <button class="text-9xl" @click="fetchMeow">😺</button>
 </template>
